@@ -1,0 +1,1 @@
+Olá, esse é um projeto onde mostro coisas sobre mim, espeor que goste e tenha uma boa leitura. 
