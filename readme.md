@@ -1,1 +1,1 @@
-Olá, esse é um projeto onde mostro coisas sobre mim, espeor que goste e tenha uma boa leitura. 
+Olá, esse é meu primeiro projeto com HTML e CSS, espero que goste
